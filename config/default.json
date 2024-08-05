@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://muneebnawaz2018:1234@cluster0.tl4izck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "jwtSecret": "MYNAMEISMUNEEB",
+  "githubClientId": "1234567891011121314",
+  "githubSecret": "1232314423412312324232"
+}
